@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm a graduating student in my final year of pursuing a B.Tech degree at the prestigious Indian Institute of Technology (IIT) Jodhpur. My primary field of study is Mechanical Engineering, but my passion lies in the world of Data Science, which I have chosen as my minor specialization.
+👋 Hello there! I'm a graduating student in my final year of B.Tech degree at the prestigious Indian Institute of Technology (IIT) Jodhpur. My primary field of study is Mechanical Engineering, but my passion lies in the world of Data Science, for that I am doing Specialization in Data Science as second degree.
 
 📊 Data Science has always fascinated me with its power to extract meaningful insights from raw data and drive data-informed decision-making across various domains. Throughout my academic journey, I've delved deep into the fascinating realm of data analysis, machine learning, and data-driven problem-solving.
 
