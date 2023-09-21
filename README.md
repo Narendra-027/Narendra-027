@@ -8,7 +8,7 @@
 📫 Feel free to connect with me and explore my projects. Let's connect, collaborate, and together, unlock the potential of data science!
 <br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-jani-027) 
 <h3 align="left">🌐 Connect with me:</h3>-->
 <p align="left">
