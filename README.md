@@ -25,7 +25,10 @@
 # 📊 GitHub Stats:
 <div align="center" style="height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Narendra-027&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 200px; width: auto;" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra-027&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px; width: auto;"/>
+
+  ![](https://github-profile-trophy.vercel.app/?username=Narendra-027&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narendra-027&theme=radical&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
