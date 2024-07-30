@@ -28,7 +28,9 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narendra-027&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 200px; width: 440px;"/>
 
-  ![](https://github-contributor-stats.vercel.app/api?username=Narendra-027&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  ![](https://github-profile-trophy.vercel.app/?username=Narendra-027&theme=radical&no-frame=true&no-bg=true&margin-w=0)
+
+  ![](https://github-contributor-stats.vercel.app/api?username=Narendra-027&limit=6&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
