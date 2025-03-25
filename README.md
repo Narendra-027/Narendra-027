@@ -1,11 +1,14 @@
 # 💫 About Me: 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra-027&label=Profile%20views&color=0e75b6&style=flat" alt="narendra-027" /> </p>
 
-👋 Hello there! I'm a graduating student in my final year of B.Tech degree at the prestigious Indian Institute of Technology (IIT) Jodhpur. My primary field of study is Mechanical Engineering, but my passion lies in the world of Data Science, for that I am doing Specialization in Data Science as second degree.
+👋 Hello there!
+I'm Narendra, a software developer and AI/ML enthusiast with a strong passion for building intelligent and scalable applications. I hold a B.Tech in Mechanical Engineering from IIT Jodhpur, but my true interest lies in the world of software development and artificial intelligence.
 
-📊 Data Science has always fascinated me with its power to extract meaningful insights from raw data and drive data-informed decision-making across various domains. Throughout my academic journey, I've delved deep into the fascinating realm of data analysis, machine learning, and data-driven problem-solving.
+💻 Software Development has always excited me, from crafting seamless user experiences with React.js and Next.js to designing efficient backend architectures using Node.js and MongoDB. My journey has been driven by a deep curiosity to solve complex problems through code.
 
-📫 Feel free to connect with me and explore my projects. Let's connect, collaborate, and together, unlock the potential of data science!
+🤖 AI/ML fascinates me with its ability to transform data into actionable insights. I have a keen interest in deep learning, computer vision, and time-series analysis, utilizing frameworks like TensorFlow and PyTorch to develop intelligent solutions.
+
+📫 Feel free to connect with me and explore my work. Let’s build, innovate, and push the boundaries of technology together! 🚀
 <br>
 
 # 🌐 Profile:
