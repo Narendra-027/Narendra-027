@@ -1,14 +1,7 @@
 # 💫 About Me: 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra-027&label=Profile%20views&color=0e75b6&style=flat" alt="narendra-027" /> </p>
-
-👋 Hello there!
-I'm Narendra, a software developer and AI/ML enthusiast with a strong passion for building intelligent and scalable applications. I hold a B.Tech in Mechanical Engineering from IIT Jodhpur, but my true interest lies in the world of software development and artificial intelligence.
-
-💻 Software Development has always excited me, from crafting seamless user experiences with React.js and Next.js to designing efficient backend architectures using Node.js and MongoDB. My journey has been driven by a deep curiosity to solve complex problems through code.
-
-🤖 AI/ML fascinates me with its ability to transform data into actionable insights. I have a keen interest in deep learning, computer vision, and time-series analysis, utilizing frameworks like TensorFlow and PyTorch to develop intelligent solutions.
-
-📫 Feel free to connect with me and explore my work. Let’s build, innovate, and push the boundaries of technology together! 🚀
+Always learning and improving — whether it's exploring new frameworks, debugging a tricky issue, writing better code, or contributing to impactful solutions.
+Currently, I’m focused on improving my skills in full-stack development and contributing to products that solve real-world problems. Open to interesting opportunities, collaborations, or just a good tech chat!
 <br>
 
 # 🌐 Profile:
