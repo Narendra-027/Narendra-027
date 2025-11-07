@@ -10,7 +10,7 @@ Currently, I’m focused on improving my skills in full-stack development and co
 <p align="left">
 <a href="https://linkedin.com/in/narendra-jani-027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra-jani-027" height="30" width="40" /></a>
 <a href="https://kaggle.com/narendrab20me048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="narendrab20me048" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/narendra_027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="narendra_027" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/__okura__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="__okura__" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/narendra11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="narendra11" height="30" width="40" /></a>
 </p>
 
@@ -29,13 +29,13 @@ Currently, I’m focused on improving my skills in full-stack development and co
 <div align="center"> 
   <h2 align="center">Leetcode Badges</h2>  
   <p align="center">
-    <a href="https://leetcode.com/u/Narendra_027/" target="_blank">
+    <a href="https://leetcode.com/u/__okura__/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="Badge of Narendra" height="100" width="100" />
     </a>
-    <a href="https://leetcode.com/u/Narendra_027/" target="_blank">
+    <a href="https://leetcode.com/u/__okura__/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="Badge of Narendra" height="100" width="100" />
     </a>
-    <a href="https://leetcode.com/u/Narendra_027/" target="_blank">
+    <a href="https://leetcode.com/u/__okura__/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="Badge of Narendra" height="100" width="100" />
     </a>
   </p>
