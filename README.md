@@ -28,6 +28,7 @@ Currently, I’m focused on improving my skills in full-stack development and co
 
 <div align="center"> 
   <h2 align="center">Leetcode Badges</h2>  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/__okura__?theme=dark&skills=true)
   <p align="center">
     <a href="https://leetcode.com/u/__okura__/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="Badge of Narendra" height="100" width="100" />
