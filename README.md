@@ -43,17 +43,19 @@ Currently, I’m focused on improving my skills in full-stack development and co
 </div>
 <hr>
 
+<!--
 # 📊 GitHub Stats:
 <div align="center" style="height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Narendra-027&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 200px; width: 400px;" /> 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narendra-027&theme=radical&hide_border=false" alt="GitHub Streak" style="height: 200px; width: 440px;"/>
 
- <!-- ![](https://github-profile-trophy.vercel.app/?username=Narendra-027&theme=radical&no-frame=true&no-bg=true&margin-w=0)-->
+  [](https://github-profile-trophy.vercel.app/?username=Narendra-027&theme=radical&no-frame=true&no-bg=true&margin-w=0)
 
-  <!--![](https://github-contributor-stats.vercel.app/api?username=Narendra-027&limit=6&theme=dark&combine_all_yearly_contributions=true)-->
+  [](https://github-contributor-stats.vercel.app/api?username=Narendra-027&limit=6&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
+-->
 
 
 <!--
