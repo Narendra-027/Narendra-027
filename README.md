@@ -1,5 +1,5 @@
 # 💫 About Me: 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra-027&label=Profile%20views&color=0e75b6&style=flat" alt="narendra-027" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra-027&label=Profile%20views&color=0e75b6&style=flat" alt="narendra-027" /> </p> -->
 Always learning and improving — whether it's exploring new frameworks, debugging a tricky issue, writing better code, or contributing to impactful solutions.
 Currently, I’m focused on improving my skills in full-stack development and contributing to products that solve real-world problems. Open to interesting opportunities, collaborations, or just a good tech chat!
 <br>
